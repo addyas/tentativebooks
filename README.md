@@ -1,3 +1,2 @@
-# tentativebooks
-###Tentatively a books app.
+# Tentative Books Project 
 ### MongoDB, Express, Jade, to be determined...
